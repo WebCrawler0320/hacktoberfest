@@ -33,6 +33,11 @@
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
+#### Name: [ARJUN AGARWAL](https://github.com/WebCrawler0320)
+- Place: Uttar Pradesh, India
+- Bio: Student
+-Github: [Arjun Agarwal](https://github.com/WebCrawler0320)
+
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
